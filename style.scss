@@ -1,0 +1,17 @@
+$primary-color: #343434;
+$pre-bgcolor: #ddd;
+
+body {
+	font-color: $primary-color;
+	font-family: verdana;
+}
+
+p {
+	
+}
+
+pre {
+	background-color: $pre-bgcolor;
+	display: inline-block;
+	padding: .5em 5em .5em 0;
+}
